@@ -1,4 +1,4 @@
-# Mini-Tic-Tac-Toe
+# Extreme-Tic-Tac-Toe
 Terminal based Tic Tac Toe using Alpha Beta Algorithm.
 
 Running the code : 
